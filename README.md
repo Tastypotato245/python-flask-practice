@@ -16,8 +16,11 @@ sudo docker build -t <custom_image_name> .
 sudo docker run -it --rm -p 8080:8080 <custom_image_name> /app/venv/bin/python3 app.py
 ```
 
-/
+### /
+
 ![image](https://github.com/Tastypotato245/python-flask-practice/assets/63251068/71ff0eff-f4bd-41e6-9e06-0734c18e7f4f)
 
-/get_data
+
+### /get_data
+
 <img width="528" alt="image" src="https://github.com/Tastypotato245/python-flask-practice/assets/63251068/7d4f7e78-d6b7-4950-bf2b-e7c56960fe98">
